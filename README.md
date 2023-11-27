@@ -2,7 +2,7 @@
 - 👀 I’m interested in little thing
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me nothing
+- 📫 How to reach me : Email:hk19923717357@163.com QQ:1987995526
 
 <!---
 FriendOfYishan/FriendOfYishan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

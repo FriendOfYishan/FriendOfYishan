@@ -1,4 +1,4 @@
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/50ac6d31-0079-406d-9ddb-cb3a7cde1b66" />- 👋 Hi, I’m @FriendOfYishan
+- 👋 Hi, I’m @FriendOfYishan
 - 👀 I’m interested in machine learning like *meta learning* and *Stochastic Learning*
 - 🎓 I’m currently research the popular *noise SGD*
 - 🌱 I’m currently learning the *meta learning*
